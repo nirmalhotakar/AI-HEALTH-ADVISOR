@@ -1,0 +1,7 @@
+{
+  "name": "HealthGuard AI",
+  "description": "AI-powered disease prediction and doctor locator application using Gemini 2.5 Flash models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
